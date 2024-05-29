@@ -1,0 +1,211 @@
+body {
+    background-color: azure;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+
+.container {
+    border: solid black 2px;
+    align-content: center;
+
+}
+
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+
+.cool-blue {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    font-weight: bold;
+   
+    
+
+}
+
+
+.pink {
+    background-color: pink;
+    color: black;
+    text-align: center;
+    padding: 4px;
+    font-weight: bold;
+   
+   
+
+}
+
+
+.mint-green {
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+    padding: 4px;
+    font-weight: bold;
+   
+  
+
+}
+
+
+.beige {
+    background-color: beige;
+    color: black;
+    text-align: center;
+    padding: 4px;
+    font-weight: bold;
+  
+   
+
+}
+
+
+.text1 {
+    text-decoration: underline;
+    font-size: medium;
+    font-weight: bold;
+   
+}
+
+
+.description1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+
+
+}
+
+
+.description2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+   
+
+}
+
+
+.description3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+   
+
+}
+
+
+.nunito-sans-container {
+    display: inline;
+
+}
+
+
+.text2 {
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.description4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+
+description5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+
+}
+
+
+description6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+
+.text3 {
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-weight: 700;
+
+}
+
+.description7 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+
+}
+
+
+.description8 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+.description9 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
+
+
+.H1 {
+    font-size: large;
+    font-weight: 700;
+
+}
+
+
+.text4 {
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+li {
+    font-size:small;
+    font-weight: bold;
+
+}
+
+
+.H2 {
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+
+.text5 {
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+
+.p {
+    font-size: 18px;
+
+}
+
+
+.text6 {
+    font-size: 18px;
+
+}
+
